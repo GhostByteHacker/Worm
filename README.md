@@ -2,7 +2,7 @@
 This is a simple propagating computer worm.
 To run just do 
 ```Python
-python3 worm.py
+python worm.py
 ```
 
 # DISCLAIMER
